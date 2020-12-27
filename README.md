@@ -21,7 +21,7 @@
 * [FAQ](./docs/EnterpriseScale-FAQ.md)
 * [Roadmap](./docs/EnterpriseScale-Roadmap.md)
 * [Microsoft Support Policy](./SUPPORT.md)
-
+* Dummy sync test
 ---
 
 ## Quickstart
